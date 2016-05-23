@@ -1,5 +1,7 @@
 # SmartReactives
 
+[![Join the chat at https://gitter.im/keyboardDrummer/SmartReactives](https://badges.gitter.im/keyboardDrummer/SmartReactives.svg)](https://gitter.im/keyboardDrummer/SmartReactives?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 SmartReactives is a .NET library that will automatically discover dependencies between expressions and variables. Forget about manually specifying data bindings and clearing stale caches: SmartReactives will do this for you.
 
 SmartReactives is inspired by [Scala.Rx](https://github.com/lihaoyi/scala.rx), which was inspired by the paper [Deprecating the Observer Pattern](https://scholar.google.nl/scholar?q=deprecating+the+observer+pattern&btnG=&hl=en&as_sdt=0%2C5), by Odersky.
